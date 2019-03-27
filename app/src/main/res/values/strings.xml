@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Just Music</string>
+
+    <!-- Category name for albums[CHAR LIMIT=20] -->
+    <string name="category_albums">Albums</string>
+
+    <!-- Category name for artists [CHAR LIMIT=20] -->
+    <string name="category_artists">Artists</string>
+
+    <!-- Category name for now playing [CHAR LIMIT=20] -->
+    <string name="category_now_playing">Now Playing</string>
+
+    <!-- Category name for payment [CHAR LIMIT=20] -->
+    <string name="category_payment">Payment</string>
+    <!-- Labels [CHAR LIMIT=20] -->
+    <string name="title_activity_artists">ArtistsActivity</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+
+    <!-- Description -->
+    <string name="pay_now">Pay Now</string>
+    <string name="artists">Artists</string>
+    <string name="main">Main</string>
+    <string name="albums">Albums</string>
+    <string name="playing">Playing</string>
+    <string name="payment">Payment</string>
+    <string name="price">5 Eur</string>
+    <string name="albumwalker">Faded \nAlan Walker</string>
+    <string name="albumflorence">Ceremonials\nFlorence+the Machine </string>
+    <string name="albumxx">Intro\nXX</string>
+    <string name="text1">\nALBUMS ACTIVITY When an user will click AlbumsActivity all albums covers will show up. ListView will be used to display all the albums on the phone. When user will click on the cover image a new intent will open inside the album and display all the songs in that album. </string>
+    <string name="artistwalker">Alan Walker</string>
+    <string name="artistflorence">Florence+the Machine</string>
+    <string name="artistmars">30 seconds to Mars</string>
+    <string name="text2">\nARTISTS ACTIVITY When an user will click ArtistsActivity all artist covers on the phone will show up. ListView will be used to display all the artists on the phone. When user will click on the cover image a new intent will open all songs by that artist in new activity called ArtistsSongs. </string>
+    <string name="text3">\nNOW PLAYING ACTIVITY Now playing activity will show track cover being played now by MediaPlayer API.</string>
+    <string name="text4">\nPAYMENT ACTIVITY In payment activity when a user will click to buy button an intent will open another activity where will user will be able to pay for the song or album using Paypal API.</string>
+    <string name="text5">\n MAIN ACTIVITY Main activity will display menu of the app with the buttons to open other activities in the application.</string>
+</resources>
