@@ -25,7 +25,7 @@ Each Activity contains a TextView explaining the Activity and the buttons that a
 One of those Activities is a Payment Activity. For this Activity, find an external library or API that can be used in this situation. In the TextView of this activity, describe the library or API and how it can be used.
 Many students ask, why is the Payment Activity required? When creating an app, developers commonly rely on existing external libraries or APIs so they don't have to re-write and maintain functionality that already exists. Processing payments or logins are common examples. As the creator of the Music app, your focus is on creating a smooth music playing experience, so leveraging existing code whose focus is on payments allows you to focus on developing your Music Player rather than developing Payment processing functionality.
 
-![Screenshot_20190330-184112](https://user-images.githubusercontent.com/26045797/55282347-0307b480-534b-11e9-9563-b0c0f4e077e4.png)
+
 ![music2](https://user-images.githubusercontent.com/26045797/55282349-0c911c80-534b-11e9-94b2-dbe6daa992de.png)
 ![music3](https://user-images.githubusercontent.com/26045797/55282351-131f9400-534b-11e9-8847-316cb57d6874.png)
 ![music4](https://user-images.githubusercontent.com/26045797/55282353-187cde80-534b-11e9-9941-3aff628f37f0.png)
