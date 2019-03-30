@@ -8,3 +8,19 @@ Designing an app experience to achieve a certain goal
 Creating new activities
 Using explicit Intents to link between activities in your app.
 Using OnClickListeners to add behavior to buttons using Java code.
+
+
+
+You won't need to implement the actual music playing functionality. You just need to describe it. The goal of this project is to plan for building an app that has the structure of a music playing app to practice app design and the use of explicit intents to navigate around the app.
+
+Each Activity should contain a TextView that describes the Activity. If you decide to mock up the content, or add real content, the reviewer might comment on your work, but it will not be considered to meet the requirements.
+
+For example, a "Now Playing" Activity should have a TextView that describes the screen. It can also contain buttons that move to the Song Detail or Artist Detail Activities.
+
+Finally, do some research on the technical hurdles and add a potential solution to each screen. The solution could be Android libraries or classes, an API on the internet, or code you could plan on writing. You do not need to actually implement any functionality.
+
+The required components for this project are:
+App should have 3 to 6 Activities
+Each Activity contains a TextView explaining the Activity and the buttons that allow the user to change Activity
+One of those Activities is a Payment Activity. For this Activity, find an external library or API that can be used in this situation. In the TextView of this activity, describe the library or API and how it can be used.
+Many students ask, why is the Payment Activity required? When creating an app, developers commonly rely on existing external libraries or APIs so they don't have to re-write and maintain functionality that already exists. Processing payments or logins are common examples. As the creator of the Music app, your focus is on creating a smooth music playing experience, so leveraging existing code whose focus is on payments allows you to focus on developing your Music Player rather than developing Payment processing functionality.
