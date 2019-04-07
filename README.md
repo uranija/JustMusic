@@ -3,11 +3,11 @@
 
 The goal of this project was to design and create the structure of a Music app which would allow a user to play audio files. There are many music player apps, and they make a wide variety of design choices. I had to decide by myself on the structure of the app and and i had to build all that structure using intents. I decided to build ann app to play music from the user’s library of music.
 
-
-Designing an app experience to achieve a certain goal
-Creating new activities
-Using explicit Intents to link between activities in your app.
-Using OnClickListeners to add behavior to buttons using Java code.
+Project objectives:
+- Designing an app
+- Creating new activities
+- Using explicit Intents to link between activities
+- Using OnClickListeners to add behavior to buttons using Java code
 
 
 
