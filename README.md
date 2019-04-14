@@ -1,7 +1,7 @@
 # JustMusic
 ## Fourth project in ABND course
 
-The goal of this project was to design and create the structure of a Music app which would allow a user to play audio files.The goal of this project is to plan for building an app that has the structure of a music playing app to practice app design and the use of explicit intents to navigate around the app. There are many music player apps, and they make a wide variety of design choices. I had to decide by myself on the structure of the app and and i had to build all that structure using intents. I decided to build ann app to play music from the user’s library of music.
+The main goal of this project was to plan for building an app that has the structure of a music playing app to practice app design and the use of explicit intents to navigate around the app. There are many music player apps out there, and they make a wide variety of design choices. I had to decide by myself on the structure of the app and i had to build all that structure using intents. I decided to build ann app to play music from the user’s library of music.
 
 ## Project objectives:
 - Designing an app
@@ -13,7 +13,8 @@ The goal of this project was to design and create the structure of a Music app w
 - Each Activity should contain a TextView that describes the Activity. 
 - App should have 3 to 6 Activities
 - Each Activity contains a TextView explaining the Activity and the buttons that allow the user to change Activity
-- One of those Activities is a Payment Activity. For this Activity, find an external library or API that can be used in this situation. In the TextView of this activity, describe the library or API and how it can be used.
+- One of those Activities is a Payment Activity. For this Activity external library or API that can be used was needed.
+  In the TextView of this activity, description of the library or API and how it can be used needed.
 
 
 
